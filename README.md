@@ -1,16 +1,16 @@
 # Dyllan McCreary  
 **Research Engineer (AI / Systems / Reinforcement Learning)**  
 
-[GitHub](https://github.com/verbiiyo) • [LinkedIn](https://www.linkedin.com/in/dyllanm/) • dyllanmccreary@gmail.com
+[GitHub](https://github.com/verbiiyo) • [LinkedIn](https://www.linkedin.com/in/dyllanm/) • dyllan@xlate.ai • dyllanmccreary@gmail.com (preferred)
 
 ---
 
 ## Summary
 
 Research engineer focused on **reinforcement learning, systems design, and real-time AI training**.  
-Led development of RL systems capable of outperforming domain experts in circuit board design, and now building **next-generation on-device AI frameworks** that integrate training, UI, and sensor data in real time.
+Led development of RL systems capable of outperforming domain experts in circuit board design, and currently building **next-generation on-device AI frameworks** that integrate training, UI, and sensor data in real time.
 
-**Core strength:** bridging **deep learning + systems + product** into deployable, high-performance systems.
+Core strength: bridging **deep learning, systems, and product** into deployable, high-performance systems.
 
 ---
 
@@ -18,10 +18,10 @@ Led development of RL systems capable of outperforming domain experts in circuit
 
 Led development of **quilter.ai’s reinforcement learning system**, capable of designing circuit boards **faster and more efficiently than human electrical engineers**, combining:
 
-- multi-agent RL  
-- geometric constraint solving  
-- large-scale simulation environments  
-- novel training strategies outperforming internal SOTA methods  
+- Multi-agent reinforcement learning  
+- Geometric constraint solving  
+- Large-scale simulation environments  
+- Novel training strategies outperforming internal state-of-the-art methods  
 
 ---
 
@@ -34,67 +34,49 @@ Python • PyTorch • Reinforcement Learning • Deep Learning • Computer Vis
 C++ • Systems Engineering • Transformers • Computational Geometry  
 
 **Exploring**  
-Rust • Japanese • WASM • UI/Design • iOS  
+Rust • Japanese • WebAssembly • UI/Design • iOS  
 
 ---
 
 ## Experience
 
-### xlate.ai — Research Engineer & Founder  
+### xlate — Research Engineer & Founder  
 **2024 – Present**
 
 Researching new paradigms for **human-computer interaction with AI** and building systems for **real-time, on-device learning**.
 
-#### Projects under xlate.ai
+- Developed **xlate.ai** (https://xlate.ai), a language learning agent with per-word breakdowns and contextual understanding for Japanese  
+  - Implemented real-time parsing and linguistic decomposition  
+  - Designed adaptive, interactive learning workflows  
 
-**xlate.ai**  
-https://xlate.ai  
-Language learning agent with per-word breakdowns and contextual understanding for Japanese.
+- Built **xos** (https://github.com/xlateai/xos), an experimental cross-platform application and AI framework  
+  - Integrated UI, compute, and training into a unified system  
+  - Embedded Python runtime with Rust-backed systems architecture  
+  - Designed for real-time, on-device model training and inference  
+  - Implemented hardware abstraction layers for GPU/Metal acceleration  
+  - Demos:  
+    - Framework: https://www.youtube.com/watch?v=4LoPillQ1_k  
+    - Tuneables: https://www.youtube.com/watch?v=azc2zr-iExQ  
+    - Translation agent: https://www.youtube.com/watch?v=JufbgYoWc0Y  
 
-- Real-time parsing and linguistic decomposition  
-- Designed for adaptive, interactive learning  
-
----
-
-**xos (Experimental Framework)**  
-https://github.com/xlateai/xos  
-
-Cross-platform application + AI framework integrating UI, compute, and training:
-
-- Embedded Python runtime with Rust-backed systems  
-- Designed for real-time AI training on-device  
-- Hardware abstraction for GPU/Metal acceleration  
-- Unified interface for UI + ML + sensors  
-
-**Demos:**
-- Framework: https://www.youtube.com/watch?v=4LoPillQ1_k  
-- Tuneables: https://www.youtube.com/watch?v=azc2zr-iExQ  
-- Translation Agent: https://www.youtube.com/watch?v=JufbgYoWc0Y  
-
----
-
-**sensorlab**  
-https://github.com/xlateai/sensorlab  
-
-Unified iOS sensor visualization platform:
-
-- Real-time processing of audio, motion, magnetometer data  
-- Built for experimentation and rapid prototyping  
-- Visualization-driven debugging of sensor signals  
+- Created **sensorlab** (https://github.com/xlateai/sensorlab), a unified iOS sensor visualization platform  
+  - Processed audio, motion, and magnetometer data in real time  
+  - Built tools for rapid experimentation and signal debugging  
+  - Developed visualization-first workflows for sensor analysis  
 
 ---
 
 ### quilter.ai — Lead Research Engineer  
 **2022 – 2024**
 
-- Led development of RL systems for **automated circuit board design**  
+- Led development of reinforcement learning systems for **automated circuit board design**  
 - Built high-performance simulation environments generating **millions of layouts per minute**  
 - Developed agents capable of **expert-level PCB routing and optimization**  
 - Introduced **novel training methodologies** surpassing internal benchmarks  
 - Advanced:
-  - topological learning on geometric constraints  
-  - multi-agent tree search systems  
-- Presented results across engineering and research teams  
+  - Topological learning on geometric constraints  
+  - Multi-agent tree search systems  
+- Delivered company-wide presentations communicating research outcomes and system performance  
 
 ---
 
@@ -102,7 +84,7 @@ Unified iOS sensor visualization platform:
 **2021 – 2022**
 
 - Modeled adversarial economic systems to improve **fund allocation robustness**  
-- Designed simulations to preserve **signal integrity in decentralized funding**  
+- Designed simulations to preserve **signal integrity in decentralized funding mechanisms**  
 - Led cross-team collaboration on research tooling and infrastructure  
 
 ---
@@ -110,30 +92,30 @@ Unified iOS sensor visualization platform:
 ### Activeloop AI — Machine Learning Engineer  
 **2021**
 
-- Google Summer of Code Mentor  
-- Solved **tiling + indexing challenges** for high-dimensional tensor storage  
-- Built compression techniques for **petabyte-scale datasets**  
-- Scaled distributed training for **large aerial imagery pipelines**  
+- Served as a Google Summer of Code mentor  
+- Solved tiling and indexing challenges for **high-dimensional tensor storage systems**  
+- Developed compression techniques for **petabyte-scale datasets**  
+- Scaled distributed training across large aerial imagery datasets  
 
 ---
 
 ### Vathys AI (Semiconductors) — Deep Learning Research Engineer  
 **2019 – 2021**
 
-- Built high-performance **C++/Python IC routing systems**  
-- Developed ML approaches for **hardware layout optimization**  
-- Researched:
-  - quantization  
-  - sparsity  
-  - frequency-based compression  
-- Scaled training across multi-GPU systems achieving **near SOTA ImageNet performance in <10 minutes**  
+- Built high-performance **C++/Python integrated circuit routing systems**  
+- Developed machine learning approaches for **hardware layout optimization**  
+- Researched model compression techniques, including:
+  - Quantization  
+  - Sparsity  
+  - Frequency-based methods  
+- Scaled multi-GPU training pipelines achieving **near state-of-the-art ImageNet performance in under 10 minutes**  
 
 ---
 
 ### SharpestMinds — Mentee → Mentor  
 **2018 – 2019**
 
-- Completed signal processing research with Bell Labs mentorship  
-- Mentored computer vision projects and guided junior engineers  
+- Completed signal processing research under Bell Labs mentorship  
+- Mentored computer vision projects and supported junior engineers in technical development  
 
 ---
