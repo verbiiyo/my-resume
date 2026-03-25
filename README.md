@@ -67,7 +67,8 @@ Researching new paradigms for **human-computer interaction with AI** and buildin
 ---
 
 ### quilter.ai — Lead Research Engineer  
-**2022 – 2024**
+**2022 – 2024**  
+https://quilter.ai
 
 - Led development of reinforcement learning systems for **automated circuit board design**  
 - Built high-performance simulation environments generating **millions of layouts per minute**  
@@ -80,17 +81,20 @@ Researching new paradigms for **human-computer interaction with AI** and buildin
 
 ---
 
-### Gitcoin — Research Engineer (Assets Security)  
-**2021 – 2022**
+### Gitcoin — Product & Research Engineer (Fraud Detection)  
+**2021 – 2022**  
+https://gitcoin.co
 
-- Modeled adversarial economic systems to improve **fund allocation robustness**  
+- Modeled adversarial economic systems to improve **fraud detection and fund allocation robustness**  
 - Designed simulations to preserve **signal integrity in decentralized funding mechanisms**  
-- Led cross-team collaboration on research tooling and infrastructure  
+- Bridged product and research to ship high-impact anti-fraud tooling  
+- Led cross-team collaboration on research infrastructure and experimentation  
 
 ---
 
 ### Activeloop AI — Machine Learning Engineer  
-**2021**
+**2021**  
+https://www.activeloop.ai/
 
 - Served as a Google Summer of Code mentor  
 - Solved tiling and indexing challenges for **high-dimensional tensor storage systems**  
@@ -113,7 +117,8 @@ Researching new paradigms for **human-computer interaction with AI** and buildin
 ---
 
 ### SharpestMinds — Mentee → Mentor  
-**2018 – 2019**
+**2018 – 2019**  
+https://www.sharpestminds.com/
 
 - Completed signal processing research under Bell Labs mentorship  
 - Mentored computer vision projects and supported junior engineers in technical development  
