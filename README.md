@@ -145,7 +145,15 @@ https://www.activeloop.ai/
 ### Sierra College — Mathematics  
 **2017 – 2018**
 
-- Founded and led Computer Science Club  
+- Founded and led Computer Science Club
+
+### Woodcreek High School — Computer Science  
+**2013 – 2017**
+
+- Completed AP Computer Science coursework with an **A (college credit)**  
+- Final project: built an **Asteroids game in C++** (https://github.com/verbiiyo/Asteroids)  
+  - Received special permission to use C++ instead of the required Snap language  
+  - Went beyond course requirements with a full game implementation and performance-focused design  
 
 ---
 
