@@ -34,87 +34,131 @@ Rust • Japanese • WebAssembly • UI/Design • iOS
 
 ## Experience
 
-### xlate — Research Engineer & Founder  
-**2024 – Present**
+### xlate — Founder  
+**Aug 2024 – Present**  
+https://github.com/xlateai  
 
-Researching new paradigms for **human-computer interaction with AI** and building systems for **real-time, on-device learning**.
+Building next-generation systems for **real-time, on-device AI training and interaction**, focused on unifying learning, interfaces, and compute.
 
-- Developed **xlate.ai** (https://xlate.ai), a language learning agent with per-word breakdowns and contextual understanding for Japanese  
-  - Implemented real-time parsing and linguistic decomposition  
-  - Designed adaptive, interactive learning workflows  
+- Developed **xlate.ai** (https://xlate.ai), a language learning agent with per-token breakdowns and contextual understanding  
+  - Designed adaptive learning loops driven by real-time parsing and contextual feedback  
+  - Focused on improving human-computer interaction through language-aware systems  
 
-- Built **xos** (https://github.com/xlateai/xos), an experimental cross-platform application and AI framework  
-  - Integrated UI, compute, and training into a unified system  
-  - Embedded Python runtime with Rust-backed systems architecture  
-  - Designed for real-time, on-device model training and inference  
-  - Implemented hardware abstraction layers for GPU/Metal acceleration  
+- Built **xos** (https://github.com/xlateai/xos), an experimental application and AI framework  
+  - Unified UI rendering, tensor compute, and training into a single runtime  
+  - Embedded Python execution within a Rust-backed systems architecture  
+  - Designed for continuous, real-time model training directly on-device  
+  - Implemented hardware abstraction layers targeting GPU/Metal acceleration  
+  - Explored low-latency interaction loops between sensors, models, and UI  
   - Demos:  
     - Framework: https://www.youtube.com/watch?v=4LoPillQ1_k  
     - Tuneables: https://www.youtube.com/watch?v=azc2zr-iExQ  
     - Translation agent: https://www.youtube.com/watch?v=JufbgYoWc0Y  
 
-- Created **sensorlab** (https://github.com/xlateai/sensorlab), a unified iOS sensor visualization platform  
-  - Processed audio, motion, and magnetometer data in real time  
-  - Built tools for rapid experimentation and signal debugging  
-  - Developed visualization-first workflows for sensor analysis  
+- Created **sensorlab** (https://github.com/xlateai/sensorlab), a unified iOS sensor experimentation platform  
+  - Built real-time pipelines for audio, motion, and magnetometer data  
+  - Developed visualization-first tooling for debugging and analyzing physical signals  
+  - Enabled rapid iteration on interactive, sensor-driven applications  
+
+- Co-developed **Mindflow** (https://github.com/mindflowai/mindflow), an early LLM coding agent (2022–2023)  
+  - Designed agent workflows for iterative code generation and execution  
+  - Built early abstractions similar to modern autonomous coding systems  
+  - Explored interactive development loops between models and runtime environments  
 
 ---
 
 ### quilter.ai — Lead Research Engineer  
-**2022 – 2024**  
-https://quilter.ai
+**May 2022 – Aug 2024**  
+https://quilter.ai  
 
-- Led development of reinforcement learning systems for **automated circuit board design**  
+Led research and engineering efforts to develop **state-of-the-art reinforcement learning systems for automated circuit board design**.
+
+- Trained and deployed a **superhuman reinforcement learning agent** for PCB component placement  
+- Designed a fully reinforcement learning–based PCB routing system  
 - Built high-performance simulation environments generating **millions of layouts per minute**  
-- Developed agents capable of **expert-level PCB routing and optimization**  
-- Introduced **novel training methodologies** surpassing internal benchmarks  
-- Advanced:
-  - Topological learning on geometric constraints  
-  - Multi-agent tree search systems  
-- Delivered company-wide presentations communicating research outcomes and system performance  
+- Researched **sample-efficient RL** across continuous and discrete action spaces  
+- Developed computer vision–based agent architectures using image observations  
+- Designed and implemented **computational geometry and constrained topological learning algorithms**  
+- Applied distributed Monte Carlo methods for large-scale optimization  
+- Engineered highly vectorized GPU systems for simulation and training  
+- Deployed ML and RL systems into production environments  
 
 ---
 
 ### Gitcoin — Product & Research Engineer (Fraud Detection)  
-**2021 – 2022**  
-https://gitcoin.co
+**Dec 2021 – May 2022**  
+https://gitcoin.co  
 
-- Modeled adversarial economic systems to improve **fraud detection and fund allocation robustness**  
-- Designed simulations to preserve **signal integrity in decentralized funding mechanisms**  
-- Bridged product and research to ship high-impact anti-fraud tooling  
-- Led cross-team collaboration on research infrastructure and experimentation  
+Worked at the intersection of product, research, and economics to improve **fraud detection and trust in decentralized funding systems**.
+
+- Designed adversarial simulations modeling strategic behavior in funding ecosystems  
+- Built systems to detect and mitigate fraudulent activity in grant distribution  
+- Improved robustness and signal fidelity of matching fund allocation mechanisms  
+- Bridged research insights into production-facing product features  
+- Collaborated across engineering, research, and community stakeholders  
 
 ---
 
 ### Activeloop AI — Machine Learning Engineer  
-**2021**  
-https://www.activeloop.ai/
+**Mar 2021 – Mar 2022**  
+https://www.activeloop.ai/  
 
-- Served as a Google Summer of Code mentor  
-- Solved tiling and indexing challenges for **high-dimensional tensor storage systems**  
-- Developed compression techniques for **petabyte-scale datasets**  
-- Scaled distributed training across large aerial imagery datasets  
+Worked on infrastructure for **large-scale machine learning datasets and training systems**.
 
----
-
-### Vathys AI (Semiconductors) — Deep Learning Research Engineer  
-**2019 – 2021**
-
-- Built high-performance **C++/Python integrated circuit routing systems**  
-- Developed machine learning approaches for **hardware layout optimization**  
-- Researched model compression techniques, including:
-  - Quantization  
-  - Sparsity  
-  - Frequency-based methods  
-- Scaled multi-GPU training pipelines achieving **near state-of-the-art ImageNet performance in under 10 minutes**  
+- Architected systems for storing and streaming **petabyte-scale datasets**  
+- Designed high-performance data pipelines for distributed training workloads  
+- Solved tiling and indexing challenges for high-dimensional tensor storage  
+- Developed compression techniques to optimize storage and retrieval efficiency  
+- Trained models on large-scale aerial imagery datasets in distributed environments  
+- Served as a **Google Summer of Code mentor**  
 
 ---
 
-### SharpestMinds — Mentee → Mentor  
-**2018 – 2019**  
+### Vathys AI (Semiconductors) — Machine Learning Engineer  
+**Mar 2019 – Mar 2021**
+
+Developed machine learning systems for **custom deep learning hardware design and optimization**.
+
+- Designed multi-agent reinforcement learning algorithms for transistor placement and routing  
+- Built high-performance physics simulations in Python and C++  
+- Researched model compression techniques including sparsity, signal processing, and distillation  
+- Implemented distributed training across **128+ GPUs** for large-scale experiments  
+- Contributed to ML-driven approaches for integrated circuit layout and optimization  
+
+---
+
+### SharpestMinds — Mentee  
+**Nov 2018 – Mar 2019**  
 https://www.sharpestminds.com/
 
-- Completed signal processing research under Bell Labs mentorship  
-- Mentored computer vision projects and supported junior engineers in technical development  
+- Conducted signal processing research under mentorship from a Bell Labs R&D leader  
+- Analyzed audio datasets and built machine learning models for real-world data  
+- Developed early intuition for applied machine learning and research workflows  
+- Founded and led a computer science club following the program  
 
 ---
+
+### Freelance Software Engineer — Independent Contractor  
+**Jan 2017 – Feb 2019**
+
+- Conducted research and development for early-stage and open-source projects  
+- Built data pipelines involving scraping, cleaning, and training machine learning models  
+- Advised founders on applying machine learning to product ideas and strategy  
+- Developed game mods and backend systems for interactive applications
+
+## Education
+
+### De Anza College — Japanese Studies  
+**2024 (1 semester)**  
+
+- Studied Japanese formally after ~1 year of self-directed learning  
+- Focused on validating and accelerating practical language proficiency  
+
+### Sierra College — Mathematics  
+**2017 – 2018**
+
+- Studied mathematics with focus on analytical and computational foundations  
+- Founded and served as **President of the Computer Science Club**  
+  - Organized collaborative programming sessions and technical workshops  
+  - Led development of projects including a Space Invaders implementation  
+  - GitHub: https://github.com/sierra-college-cs-club  
