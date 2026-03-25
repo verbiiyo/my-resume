@@ -3,8 +3,6 @@
 
 [GitHub](https://github.com/verbiiyo) • [LinkedIn](https://www.linkedin.com/in/dyllanm/) • dyllan@xlate.ai • dyllanmccreary@gmail.com (preferred)
 
----
-
 ## Summary
 
 Research engineer focused on **reinforcement learning, systems design, and real-time AI training**.  
@@ -50,10 +48,10 @@ Building next-generation systems for **real-time, on-device AI training and inte
   - Designed for continuous, real-time model training directly on-device  
   - Implemented hardware abstraction layers targeting GPU/Metal acceleration  
   - Explored low-latency interaction loops between sensors, models, and UI  
-  - Demos:  
-    - Framework: https://www.youtube.com/watch?v=4LoPillQ1_k  
-    - Tuneables: https://www.youtube.com/watch?v=azc2zr-iExQ  
-    - Translation agent: https://www.youtube.com/watch?v=JufbgYoWc0Y  
+
+- Built **Doom RL** (https://github.com/verbiiyo/doom-rl)  
+  - Reinforcement learning experiments in FPS environments  
+  - Focused on real-time control, perception, and training loop integration  
 
 - Created **sensorlab** (https://github.com/xlateai/sensorlab), a unified iOS sensor experimentation platform  
   - Built real-time pipelines for audio, motion, and magnetometer data  
@@ -61,9 +59,6 @@ Building next-generation systems for **real-time, on-device AI training and inte
   - Enabled rapid iteration on interactive, sensor-driven applications  
 
 - Co-developed **Mindflow** (https://github.com/mindflowai/mindflow), an early LLM coding agent (2022–2023)  
-  - Designed agent workflows for iterative code generation and execution  
-  - Built early abstractions similar to modern autonomous coding systems  
-  - Explored interactive development loops between models and runtime environments  
 
 ---
 
@@ -71,31 +66,18 @@ Building next-generation systems for **real-time, on-device AI training and inte
 **May 2022 – Aug 2024**  
 https://quilter.ai  
 
-Led research and engineering efforts to develop **state-of-the-art reinforcement learning systems for automated circuit board design**.
-
 - Trained and deployed a **superhuman reinforcement learning agent** for PCB component placement  
-- Designed a fully reinforcement learning–based PCB routing system  
 - Built high-performance simulation environments generating **millions of layouts per minute**  
-- Researched **sample-efficient RL** across continuous and discrete action spaces  
-- Developed computer vision–based agent architectures using image observations  
-- Designed and implemented **computational geometry and constrained topological learning algorithms**  
-- Applied distributed Monte Carlo methods for large-scale optimization  
 - Engineered highly vectorized GPU systems for simulation and training  
-- Deployed ML and RL systems into production environments  
 
 ---
 
-### Gitcoin — Product & Research Engineer (Fraud Detection)  
+### Gitcoin — Product & Research Engineer  
 **Dec 2021 – May 2022**  
 https://gitcoin.co  
 
-Worked at the intersection of product, research, and economics to improve **fraud detection and trust in decentralized funding systems**.
-
 - Designed adversarial simulations modeling strategic behavior in funding ecosystems  
-- Built systems to detect and mitigate fraudulent activity in grant distribution  
-- Improved robustness and signal fidelity of matching fund allocation mechanisms  
-- Bridged research insights into production-facing product features  
-- Collaborated across engineering, research, and community stakeholders  
+- Built systems to detect and mitigate fraudulent activity  
 
 ---
 
@@ -103,62 +85,91 @@ Worked at the intersection of product, research, and economics to improve **frau
 **Mar 2021 – Mar 2022**  
 https://www.activeloop.ai/  
 
-Worked on infrastructure for **large-scale machine learning datasets and training systems**.
-
-- Architected systems for storing and streaming **petabyte-scale datasets**  
-- Designed high-performance data pipelines for distributed training workloads  
-- Solved tiling and indexing challenges for high-dimensional tensor storage  
-- Developed compression techniques to optimize storage and retrieval efficiency  
-- Trained models on large-scale aerial imagery datasets in distributed environments  
-- Served as a **Google Summer of Code mentor**  
+- Architected systems for **petabyte-scale dataset streaming**  
+- Developed high-performance distributed training pipelines  
 
 ---
 
-### Vathys AI (Semiconductors) — Machine Learning Engineer  
+### Vathys AI — Machine Learning Engineer  
 **Mar 2019 – Mar 2021**
 
-Developed machine learning systems for **custom deep learning hardware design and optimization**.
-
-- Designed multi-agent reinforcement learning algorithms for transistor placement and routing  
-- Built high-performance physics simulations in Python and C++  
-- Researched model compression techniques including sparsity, signal processing, and distillation  
-- Implemented distributed training across **128+ GPUs** for large-scale experiments  
-- Contributed to ML-driven approaches for integrated circuit layout and optimization  
+- Designed multi-agent RL for chip layout optimization  
+- Ran distributed training across **128+ GPUs**  
 
 ---
 
 ### SharpestMinds — Mentee  
-**Nov 2018 – Mar 2019**  
-https://www.sharpestminds.com/
+**Nov 2018 – Mar 2019**
 
-- Conducted signal processing research under mentorship from a Bell Labs R&D leader  
-- Analyzed audio datasets and built machine learning models for real-world data  
-- Developed early intuition for applied machine learning and research workflows  
-- Founded and led a computer science club following the program  
+- Conducted signal processing research  
+- Built early ML systems on real-world data  
 
 ---
 
-### Freelance Software Engineer — Independent Contractor  
+### Freelance Software Engineer  
 **Jan 2017 – Feb 2019**
 
-- Conducted research and development for early-stage and open-source projects  
-- Built data pipelines involving scraping, cleaning, and training machine learning models  
-- Advised founders on applying machine learning to product ideas and strategy  
-- Developed game mods and backend systems for interactive applications
+- Built ML systems, game mods, and backend tools  
+
+## Research / PhD Contributions
+
+- **RigL Torch Contribution** — https://github.com/verbiiyo/rigl-torch  
+  - Contributed to implementation and mathematical rigor  
+  - Referenced in Google Brain paper: https://arxiv.org/abs/1911.11134  
+  - Code cited in follow-up sparsity work: https://arxiv.org/html/2305.02299v4 
+
+- **Multi-Agent Systems (PhD Collaboration)** — https://github.com/verbiiyo/ml-arena  
+  - Contributed to research on adversarial multi-agent environments and dynamic programming  
+  - Work informed subsequent research directions (unpublished collaboration) 
+
+- **MineRL BASALT Competition** — https://github.com/verbiiyo/basalt_2022_competition_nollied  
+  - Participant in BASALT challenge  
+  - Invited and sponsored to attend **NeurIPS** via MineRL (the day ChatGPT launched!)
+
+- **Neuroevolution (Flappy Bird)** — https://github.com/verbiiyo/neuro-evolution-flappy-bird  
+  - Evolutionary algorithm–based policy learning   
+
+- **Reinforcement Learning Foundations** — https://github.com/verbiiyo/ReinforcementLearning  
+  - GridWorld (TD learning)  
+  - Multi-Armed Bandit  
+  - TicTacToe (value-based methods)  
 
 ## Education
 
-### De Anza College — Japanese Studies  
-**2024 (1 semester)**  
+### Udemy — AI / Machine Learning Coursework  
+**2018+**
 
-- Studied Japanese formally after ~1 year of self-directed learning  
-- Focused on validating and accelerating practical language proficiency  
+- Machine Learning foundations (regression, optimization)  
+- Deep Learning & Computer Vision  
+- Reinforcement Learning fundamentals  
+
+### De Anza College — Japanese Studies  
+**2024 - 2024**  
+
+- Formal study following 1 year of self-directed learning
 
 ### Sierra College — Mathematics  
 **2017 – 2018**
 
-- Studied mathematics with focus on analytical and computational foundations  
-- Founded and served as **President of the Computer Science Club**  
-  - Organized collaborative programming sessions and technical workshops  
-  - Led development of projects including a Space Invaders implementation  
-  - GitHub: https://github.com/sierra-college-cs-club  
+- Founded and led Computer Science Club  
+
+---
+
+## Origins
+
+Wrote my first program in 2011 as a middle school student: a **security system and factory management OS** for the Minecraft modpack Tekkit using Lua (ComputerCraft). Iterated on this across multiple worlds, developing early intuition for automation, systems design, and stateful environments.
+
+From 2014 through high school, focused heavily on **C++, Java, Unreal Engine, and web systems**, building games and tools (e.g., https://github.com/verbiiyo/Asteroids), which led to an interest in **performance engineering and low-level optimization**.
+
+In 2018, began studying AI formally with Udemy ([coursework](https://github.com/verbiiyo/ReinforcementLearning)). Progressed from:
+- Linear and logistic regression  
+- Multivariate optimization and cost function derivation  
+- Deep learning and convolutional networks  
+- Reinforcement learning (value iteration, MCTS, TD methods)
+
+Built early RL systems including:
+- TicTacToe solvers (value iteration, MCTS, etc.)  
+- Multi-armed bandits and GridWorld control systems  
+- Transition into deep RL and ultimately **multi-agent reinforcement learning**
+
+This trajectory led to specialization in **RL systems, GPU-accelerated training, and evolutionary methods**, forming the foundation of current work.
