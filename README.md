@@ -14,7 +14,7 @@ Core strength: bridging **deep learning, systems, and product** into deployable,
 
 Led development of **quilter.ai’s reinforcement learning system**, capable of designing circuit boards **faster and more efficiently than human electrical engineers**, combining:
 
-- Multi-agent reinforcement learning  
+- Reinforcement learning and game design
 - Geometric constraint solving  
 - Large-scale simulation environments  
 - Novel training strategies outperforming internal state-of-the-art methods  
