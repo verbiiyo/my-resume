@@ -3,12 +3,6 @@
 
 [GitHub](https://github.com/xlateai) • [LinkedIn](#) • dyllanmccreary@gmail.com  
 
-<p align="left">
-  <button onclick="window.print()" style="padding:10px 16px; font-size:14px; cursor:pointer;">
-    ⬇ Download as PDF
-  </button>
-</p>
-
 ---
 
 ## Summary
