@@ -1,9 +1,7 @@
 # Dyllan McCreary  
 **Research Engineer (AI / Systems / Reinforcement Learning)**  
 
-[GitHub](https://github.com/verbiiyo) • [LinkedIn](https://www.linkedin.com/in/dyllanm/) • dyllanmccreary@gmail.com  
-
-[⬇ Download as PDF](./Dyllan_McCreary_Resume.pdf)
+[GitHub](https://github.com/verbiiyo) • [LinkedIn](https://www.linkedin.com/in/dyllanm/) • dyllanmccreary@gmail.com
 
 ---
 
