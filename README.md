@@ -146,6 +146,9 @@ https://www.activeloop.ai/
 **2017 – 2018**
 
 - Founded and led Computer Science Club
+- Student government for opening a new club
+- Worked with the computer science department professors to allocate classroom time for us to meet
+- Wrote video games collaboratively with our members in Lua and offered general guidance and support https://github.com/sierra-college-cs-club
 
 ### Woodcreek High School — Computer Science  
 **2013 – 2017**
