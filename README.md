@@ -12,8 +12,6 @@ Led development of RL systems capable of outperforming domain experts in circuit
 
 Core strength: bridging **deep learning, systems, and product** into deployable, high-performance systems.
 
----
-
 ## Greatest Achievement
 
 Led development of **quilter.ai’s reinforcement learning system**, capable of designing circuit boards **faster and more efficiently than human electrical engineers**, combining:
@@ -22,8 +20,6 @@ Led development of **quilter.ai’s reinforcement learning system**, capable of 
 - Geometric constraint solving  
 - Large-scale simulation environments  
 - Novel training strategies outperforming internal state-of-the-art methods  
-
----
 
 ## Skills
 
@@ -35,8 +31,6 @@ C++ • Systems Engineering • Transformers • Computational Geometry
 
 **Exploring**  
 Rust • Japanese • WebAssembly • UI/Design • iOS  
-
----
 
 ## Experience
 
