@@ -5,10 +5,7 @@
 
 ## 🧠 Summary
 
-Research engineer focused on **reinforcement learning, systems design, and real-time AI training**.  
-Led development of RL systems capable of outperforming domain experts in circuit board design, and currently building **next-generation on-device AI frameworks** that integrate training, UI, and sensor data in real time.
-
-Core strength: bridging **deep learning, systems, and product** into deployable, high-performance systems.
+Lead Research Engineer specializing in reinforcement learning, nanometer hardware design, simulation, and nearly all modalities in AI. Built and deployed superhuman RL agents at quilter.ai, contributed to Google Brain research, and attended NeurIPS — now founding the next generation of on-device and personalized AI at xlate.
 
 ## 🏆 Greatest Achievement
 
